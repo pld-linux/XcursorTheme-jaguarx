@@ -1,6 +1,6 @@
 %define		_name jaguarx
 Summary:	X11 cursor theme - jaguarx
-Summary(pl):	Notyw kursorów dla X11 - jaguarx
+Summary(pl.UTF-8):   Notyw kursorÃ³w dla X11 - jaguarx
 Name:		XcursorTheme-%{_name}
 Version:	1.0
 Release:	1
@@ -20,12 +20,12 @@ cursors. They look like the default X11 theme with a smooth drop
 shadow. The color wheel makes it fit nicely into more colorful themes
 while maintaining a serious look.
 
-%description -l pl
-Ten motyw sk³ada siê z czarnego kursora wskazuj±cego oraz pozosta³ych
-kolorowych kursorów. Wspólnie przypominaj± domy¶lny motyw X11 z
-dodanym cieniem. Kolorowe ko³o, bêd±ce elementem motywu, sprawia, ¿e
-pasuje on równie¿ do bardziej kolorowych styli, nie trac±c przy tym
-powa¿nego wygl±du.
+%description -l pl.UTF-8
+Ten motyw skÅ‚ada siÄ™ z czarnego kursora wskazujÄ…cego oraz pozostaÅ‚ych
+kolorowych kursorÃ³w. WspÃ³lnie przypominajÄ… domyÅ›lny motyw X11 z
+dodanym cieniem. Kolorowe koÅ‚o, bÄ™dÄ…ce elementem motywu, sprawia, Å¼e
+pasuje on rÃ³wnieÅ¼ do bardziej kolorowych styli, nie tracÄ…c przy tym
+powaÅ¼nego wyglÄ…du.
 
 %prep
 %setup -q -n %{_name}
