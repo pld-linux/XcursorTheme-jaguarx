@@ -1,6 +1,6 @@
 %define		_name jaguarx
 Summary:	X11 cursor theme - jaguarx
-Summary(pl.UTF-8):   Notyw kursorów dla X11 - jaguarx
+Summary(pl.UTF-8):	Notyw kursorów dla X11 - jaguarx
 Name:		XcursorTheme-%{_name}
 Version:	1.0
 Release:	1
